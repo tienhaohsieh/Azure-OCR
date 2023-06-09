@@ -1,4 +1,4 @@
-# Azure-OCR# 3D_contours_YT
+# Azure-OCR
 A note to use OCR tool API
 
 #### Requirments:
