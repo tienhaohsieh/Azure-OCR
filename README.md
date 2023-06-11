@@ -1,6 +1,6 @@
 # Azure-OCR
-A note to use OCR tool API
-Ref:
+A note to use OCR tool API  
+Ref:  
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-ocr  
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts-sdk/client-library?tabs=windows%2Cvisual-studio&pivots=programming-language-csharp  
 
