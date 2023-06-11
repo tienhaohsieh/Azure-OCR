@@ -2,8 +2,8 @@
 A note to use OCR tool API
 
 #### Requirments:
-pytesseract
-PIL
-pylab
+pytesseract  
+PIL  
+pylab  
 
 ### Example
